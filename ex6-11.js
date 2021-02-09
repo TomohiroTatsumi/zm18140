@@ -1,2 +1,2 @@
-  function ThreeSecChange() {setInterval("imgchange2()",3000);}
-  function imgchange2(){document.getElementById('logo').src='./image/bulbon.jpg';}
+  function ThreeSecChange() {setInterval("imgchange3()",3000);}
+  function imgchange3(){document.getElementById('img').src='./image/bulbon.jpg';}
